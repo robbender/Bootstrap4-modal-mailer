@@ -1,6 +1,6 @@
-# PHP Practice Bootstrap Email Form Modal
+# Bootstrap4-modal-mailer
 
-Practice
+PHP Practice Bootstrap Email Form Modal
 
 ## Development
 
@@ -15,4 +15,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
 # Bootstrap4-modal-mailer
