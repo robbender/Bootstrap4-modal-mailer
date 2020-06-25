@@ -1,6 +1,6 @@
-# PHP Practice Bootstrap Email Form Modal
+# Bootstrap4-modal-mailer
 
-Practice
+PHP Practice Bootstrap Email Form Modal
 
 ## Development
 
